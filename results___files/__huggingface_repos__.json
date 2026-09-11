@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "timm/swin_tiny_patch4_window7_224.ms_in1k", "repoType": "model", "commitHash": "4cc3a7275b50b53a7bec45f32c236ebe64227cff", "filePaths": ["model.safetensors"]}]}

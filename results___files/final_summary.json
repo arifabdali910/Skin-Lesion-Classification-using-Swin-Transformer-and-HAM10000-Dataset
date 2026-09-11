@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.5918503674014696,
+  "test_balanced_accuracy": 0.2623039559772954,
+  "test_macro_f1": 0.2527956766228785,
+  "test_macro_auc": 0.5461710938283536,
+  "best_epoch": 54,
+  "split_strategy": "lesion-level"
+}
