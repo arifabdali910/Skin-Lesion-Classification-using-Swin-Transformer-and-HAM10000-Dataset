@@ -66,7 +66,7 @@ The model predicts 7 diagnostic categories:
 - `__results___files/` — additional inline plots exported from the training notebook
 
 ### Metadata
-- `__huggingface_repos__.json` — reference to the pretrained backbone used (`timm/swin_tiny_patch4_window7_224.ms_in1k`)
+ `__huggingface_repos__.json` — reference to the pretrained backbone used (`timm/swin_tiny_patch4_window7_224.ms_in1k`)
 
 ## Notes
 
